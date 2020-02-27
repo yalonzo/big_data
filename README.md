@@ -1,2 +1,2 @@
-# big_data
+# Big Data
 Big Data Sessions
